@@ -1,4 +1,4 @@
-# 🧭 YourDestiny
+# YourDestiny
 
 Página web de una agencia de viajes hecha como proyecto de clase (Parcial 2). La idea es sencilla: tú eliges tu presupuesto (barato, medio o caro) y la página te muestra al instante el vuelo, el hotel y el auto que te corresponden, además de un itinerario armado para ese presupuesto.
 
@@ -6,7 +6,7 @@ Página web de una agencia de viajes hecha como proyecto de clase (Parcial 2). L
 
 ---
 
-## ✨ ¿Qué tiene la página?
+## ¿Qué tiene la página?
 
 - **Inicio con video:** un video de playa se repite en bucle de fondo, con el título, los botones y unos contadores que suben solos.
 - **Cinta de destinos:** una franja que se mueve sin parar con los lugares que ofrecemos.
@@ -17,7 +17,7 @@ Página web de una agencia de viajes hecha como proyecto de clase (Parcial 2). L
 
 ---
 
-## 🛠️ ¿Con qué está hecho?
+## ¿Con qué está hecho?
 
 Solo con **HTML y CSS**. No usamos JavaScript, ni librerías, ni frameworks. Todo lo que se mueve o se filtra lo hace el CSS.
 
@@ -29,7 +29,7 @@ Solo con **HTML y CSS**. No usamos JavaScript, ni librerías, ni frameworks. Tod
 
 ---
 
-## 🧠 ¿Cómo filtra sin JavaScript?
+## ¿Cómo filtra sin JavaScript?
 
 Esta fue la parte que más nos gustó. El truco funciona así:
 
@@ -48,7 +48,7 @@ Todo esto está explicado paso a paso con comentarios en la sección 8 de `css/s
 
 ---
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 yourdestiny/
@@ -64,60 +64,17 @@ El archivo `styles.css` tiene un índice al principio con 13 secciones, para que
 
 ---
 
-## ▶️ ¿Cómo lo abro en mi computador?
 
-1. Descarga el proyecto: botón verde **Code** → **Download ZIP**.
-2. Descomprime la carpeta.
-3. Haz doble clic en `index.html`.
-
-Se abre directamente en el navegador, no necesitas instalar nada.
-
-> 💡 Si quieres modificarlo, usa un editor como VS Code y cambia los textos del `index.html` o los colores en la parte de variables de `styles.css` (están al inicio, en `:root`).
-
----
-
-## 🌐 ¿Cómo lo publicamos?
-
-Usamos GitHub Pages:
-
-1. Subimos los archivos al repositorio (con `index.html` en la raíz).
-2. Fuimos a **Settings → Pages**.
-3. En "Branch" elegimos **main** y la carpeta **/ (root)**, y guardamos.
-4. Esperamos un par de minutos a que termine el proceso en la pestaña **Actions**.
-
----
-
-## ⚠️ Cosas que debes saber
-
-- **Los precios son de ejemplo.** No son tarifas reales ni se puede reservar de verdad.
-- **Algunas animaciones al hacer scroll** solo funcionan en navegadores recientes (Chrome, Edge y Safari actualizados). En los demás, la página se ve igual pero sin ese efecto.
-- **El video pesa bastante**, así que puede tardar un poco en cargar con internet lento.
-- Si alguien tiene activada la opción de "reducir movimiento" en su sistema, las animaciones se desactivan automáticamente.
-
----
-
-## 🚀 Ideas para mejorar
-
-- Agregar más destinos y más opciones por presupuesto.
-- Conectar un botón de reserva que envíe el paquete elegido por WhatsApp.
-- Hacer una versión en inglés.
-- Conectar precios reales con una base de datos (ya con JavaScript o un backend).
-
----
-
-## 👥 Equipo
+##  Equipo
 
 Proyecto hecho por:
 
-- _Nombre del integrante 1_
-- _Nombre del integrante 2_
-- _Nombre del integrante 3_
+- _Isaac Garizabalo
+- _Camilo Castro
+- _Juan Sebastián Torres
+- _Nafklin Martínez 
 
-📚 Materia: _escribe aquí el nombre de la materia_
-👨‍🏫 Profesor: _escribe aquí el nombre del profesor_
+ Materia: Electiva Disciplinar I
+Profesor: Morillo Vergel Edgar
 
 ---
-
-## 📸 Créditos
-
-Las fotos de destinos, hoteles y autos son material de referencia usado únicamente con fines académicos.
