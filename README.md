@@ -116,7 +116,8 @@ Isaac Reyner Garizabalo
 Juan Torres
 
 Nafklin Martinez
-
+---
+## Asignatura
 Materia: Electiva Disciplinar
 
 Profesor: Edgar Morillo
