@@ -110,11 +110,15 @@ Usamos GitHub Pages:
 Proyecto hecho por:
 
 Camilo Castro
+
 Isaac Reyner Garizabalo
+
 Juan Torres
+
 Nafklin Martinez
 
 Materia: Electiva Disciplinar
+
 Profesor: Edgar Morillo
 
 ---
