@@ -1,12 +1,12 @@
-# 🧭 YourDestiny
+#  YourDestiny
 
 Página web de una agencia de viajes hecha como proyecto de clase (Parcial 2). La idea es sencilla: tú eliges tu presupuesto (barato, medio o caro) y la página te muestra al instante el vuelo, el hotel y el auto que te corresponden, además de un itinerario armado para ese presupuesto.
 
-🔗 **Míralo funcionando:** https://garycreador01-crypto.github.io/yourdestiny/
+ **Míralo funcionando:** https://garycreador01-crypto.github.io/yourdestiny/
 
 ---
 
-## ✨ ¿Qué tiene la página?
+##  ¿Qué tiene la página?
 
 - **Inicio con video:** un video de playa se repite en bucle de fondo, con el título, los botones y unos contadores que suben solos.
 - **Cinta de destinos:** una franja que se mueve sin parar con los lugares que ofrecemos.
@@ -17,19 +17,19 @@ Página web de una agencia de viajes hecha como proyecto de clase (Parcial 2). L
 
 ---
 
-## 🛠️ ¿Con qué está hecho?
+##  ¿Con qué está hecho?
 
 Solo con **HTML y CSS**. No usamos JavaScript, ni librerías, ni frameworks. Todo lo que se mueve o se filtra lo hace el CSS.
 
 | Tecnología | Para qué la usamos |
 |---|---|
 | HTML5 | La estructura de la página |
-| CSS3 | Colores, diseño, animaciones y filtros |
+| CSS | Colores, diseño, animaciones y filtros |
 | GitHub Pages | Publicar la página gratis |
 
 ---
 
-## 🧠 ¿Cómo filtra sin JavaScript?
+##  ¿Cómo filtra sin JavaScript?
 
 Esta fue la parte que más nos gustó. El truco funciona así:
 
@@ -48,7 +48,7 @@ Todo esto está explicado paso a paso con comentarios en la sección 8 de `css/s
 
 ---
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 ```
 yourdestiny/
@@ -64,7 +64,7 @@ El archivo `styles.css` tiene un índice al principio con 13 secciones, para que
 
 ---
 
-## ▶️ ¿Cómo lo abro en mi computador?
+##  ¿Cómo lo abro en mi computador?
 
 1. Descarga el proyecto: botón verde **Code** → **Download ZIP**.
 2. Descomprime la carpeta.
@@ -72,11 +72,11 @@ El archivo `styles.css` tiene un índice al principio con 13 secciones, para que
 
 Se abre directamente en el navegador, no necesitas instalar nada.
 
-> 💡 Si quieres modificarlo, usa un editor como VS Code y cambia los textos del `index.html` o los colores en la parte de variables de `styles.css` (están al inicio, en `:root`).
+>  Si quieres modificarlo, usa un editor como VS Code y cambia los textos del `index.html` o los colores en la parte de variables de `styles.css` (están al inicio, en `:root`).
 
 ---
 
-## 🌐 ¿Cómo lo publicamos?
+##  ¿Cómo lo publicamos?
 
 Usamos GitHub Pages:
 
@@ -87,7 +87,7 @@ Usamos GitHub Pages:
 
 ---
 
-## ⚠️ Cosas que debes saber
+##  Cosas que debes saber
 
 - **Los precios son de ejemplo.** No son tarifas reales ni se puede reservar de verdad.
 - **Algunas animaciones al hacer scroll** solo funcionan en navegadores recientes (Chrome, Edge y Safari actualizados). En los demás, la página se ve igual pero sin ese efecto.
@@ -96,7 +96,7 @@ Usamos GitHub Pages:
 
 ---
 
-## 🚀 Ideas para mejorar
+##  Ideas para mejorar
 
 - Agregar más destinos y más opciones por presupuesto.
 - Conectar un botón de reserva que envíe el paquete elegido por WhatsApp.
@@ -105,19 +105,18 @@ Usamos GitHub Pages:
 
 ---
 
-## 👥 Equipo
+##  Equipo
 
 Proyecto hecho por:
 
-- _Nombre del integrante 1_
-- _Nombre del integrante 2_
-- _Nombre del integrante 3_
+Camilo Castro
+Isaac Reyner Garizabalo
+Juan Torres
+Nafklin Martinez
 
-📚 Materia: _escribe aquí el nombre de la materia_
-👨‍🏫 Profesor: _escribe aquí el nombre del profesor_
+Materia: Electiva Disciplinar
+Profesor: Edgar Morillo
 
 ---
 
-## 📸 Créditos
 
-Las fotos de destinos, hoteles y autos son material de referencia usado únicamente con fines académicos.
